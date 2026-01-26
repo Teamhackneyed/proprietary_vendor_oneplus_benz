@@ -1041,7 +1041,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/benz/proprietary/vendor/etc/media_profiles.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_profiles.xml \
     vendor/oneplus/benz/proprietary/vendor/etc/media_profiles_V1_0.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_profiles_V1_0.xml \
     vendor/oneplus/benz/proprietary/vendor/etc/media_profiles_crow_v0.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_profiles_crow_v0.xml \
-    vendor/oneplus/benz/proprietary/vendor/etc/media_profiles_crow_v1.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_profiles_crow_v1.xml \
     vendor/oneplus/benz/proprietary/vendor/etc/media_profiles_crow_v2.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_profiles_crow_v2.xml \
     vendor/oneplus/benz/proprietary/vendor/etc/media_profiles_vendor.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_profiles_vendor.xml \
     vendor/oneplus/benz/proprietary/vendor/etc/models/acd/event.eai:$(TARGET_COPY_OUT_VENDOR)/etc/models/acd/event.eai \
