@@ -781,6 +781,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/benz/proprietary/odm/firmware/aw8697_haptic_235.bin:$(TARGET_COPY_OUT_ODM)/firmware/aw8697_haptic_235.bin \
     vendor/oneplus/benz/proprietary/odm/firmware/aw8697_haptic_235_19161.bin:$(TARGET_COPY_OUT_ODM)/firmware/aw8697_haptic_235_19161.bin \
     vendor/oneplus/benz/proprietary/odm/firmware/aw8697_reserved_108.bin:$(TARGET_COPY_OUT_ODM)/firmware/aw8697_reserved_108.bin \
+    vendor/oneplus/benz/proprietary/odm/firmware/aw8697_rtp.bin:$(TARGET_COPY_OUT_ODM)/firmware/aw8697_rtp.bin \
     vendor/oneplus/benz/proprietary/odm/firmware/aw882xx_acf.bin:$(TARGET_COPY_OUT_ODM)/firmware/aw882xx_acf.bin \
     vendor/oneplus/benz/proprietary/odm/firmware/awinic_haptic_gun_params.bin:$(TARGET_COPY_OUT_ODM)/firmware/awinic_haptic_gun_params.bin \
     vendor/oneplus/benz/proprietary/odm/firmware/awinic_haptic_params.bin:$(TARGET_COPY_OUT_ODM)/firmware/awinic_haptic_params.bin \
