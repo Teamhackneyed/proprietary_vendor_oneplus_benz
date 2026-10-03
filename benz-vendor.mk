@@ -1630,7 +1630,6 @@ PRODUCT_PACKAGES += \
     libpdnotifier \
     libperipheral_client \
     libpolygon \
-    libpowercore \
     libpwirisfeature \
     libpwirisfeaturehal \
     libpwirishal \
@@ -1767,7 +1766,6 @@ PRODUCT_PACKAGES += \
     libtrustedapploader \
     libubifocus \
     libvideoml \
-    libvideooptfeature \
     libvideotxr \
     libvideoutils \
     libvmfilexfer \
